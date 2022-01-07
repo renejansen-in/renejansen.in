@@ -1,7 +1,7 @@
 # renejansen.in
 
 <img src="public_html/img/profielportfolio.jpg">
-I made <a href="https://www.renejansen.in">this website</a> for myself. It is my business profile and also my portfolio for Dutch clients. The profile acts as an interactive layer on top of my resume document (cv). The portfolio as an extra layer on GitHub and also contains things that are not listed as code in my github.
+I made <a href="https://www.renejansen.in">this website</a> for myself. It is my business profile and also <a href="https://www.renejansen.in/portfolio">my portfolio</a> for Dutch clients. The profile acts as an interactive layer on top of my resume document (cv). The portfolio as an extra layer on GitHub and also contains things that are not listed as code in my github.
 
 ## Description
 The profile is made in bootstrap and the portfolio in Wordpress CMS. Only the bootstrap framework has been put here, since my portfolio is a fairly standard Wordpress implementation. So, the basis of the profile page is bootstrap, html, css, javascript and php. With this I have built a modern and safe website. In particular, I like the contact form, which contains personal data that cannot be harvested by crawlers and robots. I am therefore not harassed with spam emails. The website is fully responsive
